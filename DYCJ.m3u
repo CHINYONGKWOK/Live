@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
-http://58.41.27.144:18888/udp/239.45.3.211:5140
-#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
-http://115.203.17.130:9999/udp/233.50.200.125:5140
+http://218.80.79.205:4022/udp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
 http://180.171.56.119:10000/udp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="山西",山西卫视
@@ -15,5 +13,5 @@ http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1,tvg-id="山西社会与法1" tvg-name="山西社会与法1" tvg-logo="https://epg.v1.mk/logo/山西社会与法1.png" group-title="山西",山西社会与法治
+#EXTINF:-1,tvg-id="山西社会与法1" tvg-name="山西社会与法1" tvg-logo="https://epg.v1.mk/logo/山西社会与法1.png" group-title="山西",山西社会与法治0812
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
