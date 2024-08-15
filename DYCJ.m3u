@@ -2,6 +2,8 @@
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
 http://218.80.79.205:4022/udp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
+http://115.199.178.203:9999/udp/233.50.200.125:5140
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
 http://180.171.56.119:10000/udp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="山西",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
